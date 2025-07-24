@@ -5,7 +5,7 @@ This project replicates the basic structure and layout of the YouTube homepage, 
 
 ## 🖥️ Live Preview
 
-🔗 ** ** 
+🔗 https://youtube-clone-ebon-psi.vercel.app/
 
 ---
 
